@@ -124,7 +124,7 @@ Kedo 遵循 **Apache 2.0 License** 协议，并附加了部分限制条款，请
 
 如果您有任何问题或需要进一步的帮助，请通过以下方式联系我们：
 
-- **公司网站**：[www.kedowen.com](http://www.kedoai.com)
+- **公司网站**：[www.kedoai.com](https://www.kedoai.com)
 - **公司邮箱**：kedoai@kedowen.com
 - **GitHub Issues**：在本项目的 Issues 页面提交您的问题或建议。
 

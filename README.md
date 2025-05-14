@@ -124,7 +124,7 @@ Please adhere to the project's code style and guidelines.
 
 If you have any questions or need further assistance, please contact us through the following channels:  
 
-- **Company Website**: [www.kedowen.com](http://www.kedoai.com)  
+- **Company Website**: [www.kedoai.com](https://www.kedoai.com)
 - **Company Email**: kedoai@kedowen.com  
 - **GitHub Issues**: Submit your questions or suggestions on the Issues page of this project.  
 
