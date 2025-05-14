@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Kedo.Web.Core</name>
+    </assembly>
+    <members>
+        <member name="M:Kedo.Web.Core.JwtHandler.HandleAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext)">
+            <summary>
+            重写 Handler 添加自动刷新授权逻辑
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Kedo.Web.Core.PostgreSqlExtensions">
+            <summary>
+            知识库服务注册扩展
+            </summary>
+        </member>
+        <member name="M:Kedo.Web.Core.PostgreSqlExtensions.AddKnowledgeBaseServices(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            注册知识库服务
+            </summary>
+        </member>
+    </members>
+</doc>

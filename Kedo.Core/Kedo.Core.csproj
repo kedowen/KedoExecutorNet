@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <NoWarn>1701;1702;1591</NoWarn>
+    <DocumentationFile>Kedo.Core.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Kedo.Core.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Kedo.Core.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Furion" Version="3.1.4" />
+    <PackageReference Include="Furion.Extras.Authentication.JwtBearer" Version="3.1.4" />
+    <PackageReference Include="Furion.Extras.ObjectMapper.Mapster" Version="3.1.4" />
+  </ItemGroup>
+
+</Project>
