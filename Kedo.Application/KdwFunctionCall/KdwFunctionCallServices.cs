@@ -17,7 +17,7 @@ namespace Kedo.Application.KdwFunctionCall
         private readonly IKdwFunctionCallService _functionCallService;
 
         /// <summary>
-        /// 构造函数
+        /// 构造函数 
         /// </summary>
         /// <param name="functionCallService">Function Call服务</param>
         public KdwFunctionCallServices(IKdwFunctionCallService functionCallService)
