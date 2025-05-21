@@ -12,7 +12,7 @@ namespace Kedo.Application.BaseIDatatem.Dtos.output
 
         public string BucketName { set; get; } = "Kedo.oss-cn-shanghai.aliyuncs.com";
 
-        public string AccessKeyId { set; get; } = "xxx";
+        public string AccessKeyId { set; get; } = "xxx***";
 
         public string AccessSecret { set; get; } = "xxx";
 
